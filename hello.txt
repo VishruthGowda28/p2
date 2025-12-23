@@ -1,2 +1,3 @@
 Hello Github
 Master branch edit
+Feature branch conflict edit
